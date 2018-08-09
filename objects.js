@@ -1,5 +1,6 @@
 //var meals = {}
 //var meals = new Object();
 // var meals = {breakfast: "oatmeal"}
-var meals = new Object({breakfast:"cereal"})
+var cereal = "Ohs"
+var meals = new Object({breakfast:cereal})
 console.log(meals.breakfast)
