@@ -5,3 +5,4 @@ var cereal = "Ohs"
 var meals = new Object({breakfast:cereal})
 console.log(meals['breakfast'])
 meals.snack = "cheeze-its"
+console.log(meals)
